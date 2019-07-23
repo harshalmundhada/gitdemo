@@ -1,6 +1,8 @@
 <project kya hi load hai>
 	
 	<modelVersion>4.0.0</modelVersion>
+	
+	<name> This is master branch</name>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
