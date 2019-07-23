@@ -2,7 +2,11 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	
-	<name> This is master branch</name>
+
+	<name> This is master and dev  branch </name>
+
+
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
